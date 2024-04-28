@@ -23,7 +23,9 @@ The Visualization Module uses the Pygame library to provide a graphical user int
 
 ## Simulation Demo 🚗
 
-
+<p align="center">
+    <img src="./Demo.gif">
+</p>
 
 ## Vehicle Detected Output Images
 
